@@ -1,0 +1,52 @@
+.user-panel{
+    padding-top: 60px;
+
+
+}
+.user-panel img{
+    height: 50px;
+    width: 50px;
+    display: flex;
+
+}
+a{
+
+}
+.brand-link .brand-image-xs{
+    width: 100px;
+
+}
+.btn-primary{
+   margin-bottom: 10px;
+
+}
+
+.form-control{
+    width: 70%;
+    display: inline-flex;
+    flex-direction: row;
+}
+.main-sidebar{
+    width: 320px;
+}
+i{
+
+    margin-left: 20px;
+}
+select.form-control{
+    width: 60%;
+
+}
+.col-lg-3{
+    max-width: 15%;
+}
+
+textarea{
+    width: 100%; height: 200px; font-size: 14px; line-height: 18px; border: 1px solid #dddddd; padding: 10px;
+}
+.navbar-expand .navbar-nav .nav-link{
+    padding-left: 4rem;
+}
+.nav-item  p{
+    text-transform: capitalize;
+}
